@@ -1,14 +1,4 @@
-#
-#  Dockerfile
-#  Kehs
-#
-#  Copyright © 2016 K-process. All rights reserved.
-#
-
-#FROM tobi312/rpi-php:5.6-apache
-
 FROM resin/rpi-raspbian:latest
-#FROM jsurf/rpi-raspbian:latest # build failed!
 
 #RUN [ "cross-build-start" ]
 
